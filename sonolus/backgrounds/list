@@ -1,14 +1,1 @@
-{
-  "pageCount": 1,
-  "items": [
-    {
-      "name": "mi-primer-fondo",
-      "version": 1,
-      "title": "Mi Foto de Fondo",
-      "subtitle": "Personalizado",
-      "author": "Yo",
-      "thumbnail": { "url": "/repository/background/mi-primer-fondo/image" },
-      "data": { "url": "/repository/background/mi-primer-fondo/image" }
-    }
-  ]
-}
+{"pageCount":1,"items":[{"name":"mi-primer-fondo","version":1,"title":"Mi Foto","subtitle":"Personal","author":"Yo","thumbnail":{"url":"/repository/background/mi-primer-fondo/image"},"data":{"url":"/repository/background/mi-primer-fondo/image"}}]}
