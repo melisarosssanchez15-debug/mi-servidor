@@ -1,0 +1,6 @@
+{
+  "version": "0.8.0",
+  "title": "Mi Servidor",
+  "description": "Servidor con mi foto",
+  "buttons": [{ "type": "backgrounds" }]
+}
